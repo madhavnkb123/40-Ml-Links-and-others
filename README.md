@@ -2,20 +2,21 @@
 40+ links for python and ml links
 
 1 40-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-practical-code
- follow me on Linkedin also
+ follow me on LINKEDIN ALSO
+ 
+ 
  This list is continuously updated. -
  You can take pull requests and contribute. 
  All Links are tested and working fine. 
  Please ping if any link doesn't work
 
 
-## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+## **40 * Pytho Machin learning 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
-***500 AI Machine learning Deep learning Computer vision NLP Projects with code* !!!**
+***40 * AI Machine learning Deep learning Computer vision NLP Projects with code* !!!********
 
-![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
-
-Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+![]
+Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ashishpatel2604/](https://www.linkedin.com/in/madhav-j-kapadia-564a09197/)
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 

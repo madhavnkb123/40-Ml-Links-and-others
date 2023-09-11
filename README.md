@@ -16,7 +16,7 @@
 ***40 * AI Machine learning Deep learning Computer vision NLP Projects with code* !!!********
 
 ![]
-Follow me on LinkedIn : [![]([https://www.linkedin.com/in/ashishpatel2604/](https://www.linkedin.com/in/madhav-j-kapadia-564a09197/)
+Follow me on LinkedIn : [![]([[https://www.linkedin.com/in/ashishpatel2604/](https://www.linkedin.com/in/madhav-j-kapadia-564a09197/)]()
 
 ***This list is continuously updated.*** - You can take pull requests and contribute. All Links are tested and working fine. Please ping if any link doesn't work
 

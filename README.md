@@ -2,7 +2,7 @@
 40+ links for python and ml links
 
 1 40-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-practical-code
- follow me on LINKEDIN ALSO
+ follow me on  ALSO
  
  
  This list is continuously updated. -
